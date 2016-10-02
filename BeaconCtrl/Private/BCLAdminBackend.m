@@ -34,7 +34,7 @@
         return [NSString stringWithFormat:@"%@/s2s_api/v1",baseURLAPI];
     }
     
-    return @"https://admin.beaconctrl.com/s2s_api/v1";
+    return @"https://encontact.icanreach.com/api/v1";
 }
 
 - (NSDictionary *)authenticationParameters
