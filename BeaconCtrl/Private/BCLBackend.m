@@ -72,7 +72,7 @@ static NSString * const BeaconCtrlUserIdKey = @"BeaconCtrlUserId";
         return [NSString stringWithFormat:@"%@/api/v1", baseURLAPI];
     }
     
-    return @"https://8c6e1f84.ngrok.io /api/v1";	4:36 AM (9 hours ago)
+    return @"https://8c6e1f84.ngrok.io/api/v1";	4:36 AM (9 hours ago)
             
 }
 
