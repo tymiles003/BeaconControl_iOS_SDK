@@ -34,7 +34,7 @@
         return [NSString stringWithFormat:@"%@/s2s_api/v1",baseURLAPI];
     }
     
-    return @"https://8c6e1f84.ngrok.io/api/v1";
+    return @"http://8c6e1f84.ngrok.io/api/v1";
 }
 
 - (NSDictionary *)authenticationParameters
